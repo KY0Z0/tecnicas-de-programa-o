@@ -8,7 +8,6 @@ import org.junit.jupiter.api.Test;
 /**
  * The test class DayTest.
  *
- * @author  Lucian Augusto
  * @version 1.0
  */
 public class TwoHourTests {
